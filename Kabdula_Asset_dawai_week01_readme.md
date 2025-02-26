@@ -9,7 +9,7 @@ The dataset used in this analysis is a subset of the **World Values Survey (WVS)
 - **Source:** World Values Survey (www.worldvaluessurvey.org)
 - **Years Covered:** 2017-2022
 - **File Format:** CSV
-- **Number of Respondents:** 97,220 (in the subset provided)
+- **Number of Respondents:** 97,220
 - **Survey Method:** Face-to-face and online interviews
 
 ### **Dataset Files**
