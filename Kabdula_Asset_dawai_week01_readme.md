@@ -37,12 +37,15 @@ To improve the accuracy of our analysis, we include variables such as:
 ## **4. Descriptive Statistics**
 To understand the dataset, we computed descriptive statistics for the five most important variables.
 
-| Variable | Count | Mean | Std Dev | Min | 25% | Median | 75% | Max |
-|----------|--------|------|---------|-----|-----|--------|-----|-----|
-| **Q46 - Happiness** | 97,220 | 1.83 | 0.78 | -5 | 1 | 2 | 2 | 4 |
-| **Q50 - Financial Satisfaction** | 97,220 | 6.16 | 2.51 | -5 | 5 | 6 | 8 | 10 |
-| **Q49 - Life Satisfaction** | 97,220 | 7.01 | 2.34 | -5 | 6 | 7 | 9 | 10 |
-| **Q47 - Health Status** | 97,220 | 2.18 | 0.92 | -5 | 2 | 2 | 3 | 5 |
-| **Q48 - Freedom of Choice** | 97,220 | 7.13 | 2.41 | -5 | 6 | 7 | 9 | 10 |
+| Statistic | Q46 - Happiness | Q50 - Financial Satisfaction | Q49 - Life Satisfaction | Q47 - Health Status | Q48 - Freedom of Choice |
+|-----------|----------------|-----------------------------|------------------------|---------------------|----------------------|
+| **Count** | 97,220 | 97,220 | 97,220 | 97,220 | 97,220 |
+| **Mean**  | 1.8277 | 6.1558 | 7.0123 | 2.1764 | 7.1298 |
+| **Std Dev** | 0.7832 | 2.5105 | 2.3367 | 0.9162 | 2.4120 |
+| **Min**  | -5.0000 | -5.0000 | -5.0000 | -5.0000 | -5.0000 |
+| **25%**  | 1.0000 | 5.0000 | 6.0000 | 2.0000 | 6.0000 |
+| **Median** | 2.0000 | 6.0000 | 7.0000 | 2.0000 | 7.0000 |
+| **75%**  | 2.0000 | 8.0000 | 9.0000 | 3.0000 | 9.0000 |
+| **Max**  | 4.0000 | 10.0000 | 10.0000 | 5.0000 | 10.0000 |
 
 
