@@ -9,7 +9,9 @@ The dataset used is from the **World Values Survey (WVS) Wave 7 (2017-2022)**, w
 
 ### **2. Dataset Files**
 - **`WVS_subset.csv`** → Contains survey responses.
+  - Location: ../AI with EDP/data/WVS_subset.csv
 - **`WVS_codebook.pdf`** → Provides variable definitions and coding structure.
+  - Location: ../AI with EDP/data/WVS_codebook.pdf
 
 ## **Research Question**
 > **How does financial satisfaction impact overall happiness?**
